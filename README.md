@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- My name is Lucas, I'm majoring in computer engineering
+- I really like the path of data scientist and I have been studying so that I can one day enter the field
 <!--
 **euLucs/euLucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
